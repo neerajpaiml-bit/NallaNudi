@@ -108,7 +108,7 @@ The main objective of NallaNudi is to provide an easy-to-use Android platform fo
 
 # 👨‍💻 Developed By
 
-## Srajan N Poojari
+## Neeraj P
 
 Artificial Intelligence & Machine Learning Engineering Student
 
