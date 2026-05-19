@@ -145,8 +145,8 @@ If you like this project:
 
 For queries or collaboration:
 
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
+- GitHub: https://github.com/neerajpaiml-bit
+- Email: neerajp.aiml@skit.org.in
 
 ---
 
