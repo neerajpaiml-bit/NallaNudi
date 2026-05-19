@@ -45,11 +45,11 @@ NallaNudi/
 
 # 📸 Screenshots
 
-Create a folder named:
+![Screenshot 1](screenshots/WhatsApp%20Image%202026-05-19%20at%209.13.23%20AM.jpeg)
 
-```bash
-/screenshots
-```
+![Screenshot 2](screenshots/WhatsApp%20Image%202026-05-19%20at%209.13.23%20AM%20(1).jpeg)
+
+![Screenshot 3](screenshots/WhatsApp%20Image%202026-05-19%20at%209.13.24%20AM.jpeg)
 
 Add application screenshots such as:
 
